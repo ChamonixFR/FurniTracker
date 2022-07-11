@@ -3,7 +3,7 @@
 - Ouvrez le dossier %AppData%\Habbo Launcher\downloads\air\46
 - Supprimez le fichier HabboAir.swf
 - Téléchargez le fichier HabboAirFurniTracker.swf
-- Déplacez le fichier télécharger (HabboAirFurniTracker) dans ce dossier
+- Déplacez le fichier télécharger (HabboAirFurniTracker) dans le dossier ci-dessus
 - Renommez le en HabboAir (HabboAir.swf si il n'est pas en .swf)
 - Lancez Habbo via le Launcher (Comme vous le faites de base)
 - Entrez dans l'un de vos apparts
