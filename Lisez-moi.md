@@ -12,4 +12,4 @@
 (L'ID dépend des achats effectué dans le catalogue par les joueurs, donc si vous avez l'ID 1, félicitations!)
 
 Discord Furni Tracker:
-- https://discord.gg/XbexyUGuTk
+- https://discord.io/furnitracker
