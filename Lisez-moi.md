@@ -1,6 +1,6 @@
 # FurniTracker
 
-- Ouvrez le dossier %AppData%\Habbo Launcher\downloads\air\46
+- Ouvrez le dossier %AppData%\Habbo Launcher\downloads\air\
 - Supprimez le fichier HabboAir.swf
 - Téléchargez le fichier HabboAirFurniTracker.swf
 - Déplacez le fichier télécharger (HabboAirFurniTracker) dans le dossier ci-dessus
