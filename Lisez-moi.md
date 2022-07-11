@@ -10,3 +10,6 @@
 - Faites la commande :id
 - Cliquez sur l'un de vos mobis, vous verrez désormais l'ID que possède vos mobis
 (L'ID dépend des achats effectué dans le catalogue par les joueurs, donc si vous avez l'ID 1, félicitations!)
+
+Discord Furni Tracker:
+- https://discord.gg/XbexyUGuTk
